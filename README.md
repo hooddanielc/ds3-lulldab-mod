@@ -16,7 +16,7 @@
     ```
 
 - Open iGP11 and configure .exe path
-- launch Dark Souls 3
+- Press Launch Game from iGP11 application
 
 # Common Issues
 
