@@ -2,6 +2,7 @@
 
 - Replaces `YOU DIED` text with `LUL DAB`
 - Replaces grass crest shield texture with modified Hylian Shield (Grass Crest)
+- Add's LULDAB to shield of want texture
 
 # Requirements
 
